@@ -1,0 +1,10 @@
+{
+    "apps": {
+      "name": "publish",
+      "cwd": "/root/publish",
+      "script": "./index.js",
+      "error_file": "./logs/error_file.log",
+      "out_file": "./logs/out_file.log",
+      "pid_file": "./logs/pid_file.log"
+    }
+  }

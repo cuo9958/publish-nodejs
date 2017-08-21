@@ -1,0 +1,12 @@
+{
+    "name": "publish-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "author": "疯狂紫萧",
+    "license": "MIT"
+  }
+  
